@@ -71,7 +71,7 @@ We're on a mission to make AI accessible to everyone, and we need passionate ind
 3. Fork the repo, make your changes, and submit a pull request
 
 ### 📞 Contact Us
-Have questions or ideas? Reach out to us at [contact@projectkazuko.com](mailto:contact@projectkazuko.com)
+Have questions or ideas? Reach out to us at [contact@projectkazuko.com](mailto:akash@otonomy.ai)
 
 ## 📜 License
 
